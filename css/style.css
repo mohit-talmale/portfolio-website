@@ -35,8 +35,8 @@ header{
 }
 .logo img{
 	max-width: 100%;
-	width: 130px;
-	height: auto;
+	width: 109px;
+    height: 95px;
 }
 .navlist{
 	display: flex;
@@ -277,7 +277,7 @@ header.sticky{
 .col img{
 	max-width: 100%;
 	width: 550px;
-	height: 100px;
+	height: 85px;
 	object-fit: cover;
 	border-radius: 12px;
 }
