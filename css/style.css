@@ -545,8 +545,8 @@ header.sticky{
 		text-align: center;
 	}
 	.home-img img{
-		width: 440px;
-		height: auto;
+		width: 600px;
+		height: 600px;
 	}
 	.about{
 		grid-template-columns: 1fr;
